@@ -16,7 +16,7 @@ Projeto de análise de dados utilizando Python, PostgreSQL e Power BI para ident
 - Identificação de padrões de consumo de medicamentos
 - Desenvolvimento de dashboard em Power BI
 
-🔗 [Ver projeto](./judicializacao-saude-bahia)
+🔗 [Ver projeto](https://github.com/DrMalygos/judicializacao-saude-bahia)
 
 ---
 
